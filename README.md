@@ -16,7 +16,7 @@ Download the jogo.py file to your local machine.
 To run the game, execute the following command in your terminal:
 
 ```bash
-python jogo.py
+python game.py
 ```
 
 # Example
